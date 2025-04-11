@@ -1,0 +1,48 @@
+[33mcommit 14f87de763212ea7ebbd38565bbbab4c5be47c6e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mlogin[m[33m)[m
+Merge: 5fa2495 4f985c6
+Author: LuisN <luisnog90@gmail.com>
+Date:   Thu Apr 10 22:33:55 2025 -0500
+
+    Merge branch 'main' into login
+
+[33mcommit 4f985c6d766f2455fde8650d73f81584915ffd9e[m[33m ([m[1;32mmain[m[33m)[m
+Author: LuisN <luisnog90@gmail.com>
+Date:   Thu Apr 10 22:31:04 2025 -0500
+
+    git 3 V2
+
+[33mcommit 5fa2495ec27a6361559d69d63c9b7915f4b09b8c[m
+Author: LuisN <luisnog90@gmail.com>
+Date:   Thu Apr 10 22:26:12 2025 -0500
+
+    loggin
+
+[33mcommit 24777ae79e22c421eb45816552f99f70b84028b7[m
+Author: LuisN <luisnog90@gmail.com>
+Date:   Thu Apr 10 22:11:46 2025 -0500
+
+    Este es mi quinto commit
+
+[33mcommit 501a9c13fc7d2b1c0cd85cb8b0bfbe0ce1e97798[m[33m ([m[1;33mtag: [m[1;33mclase_1[m[33m)[m
+Author: LuisN <luisnog90@gmail.com>
+Date:   Thu Apr 10 21:12:39 2025 -0500
+
+    se añade el .gitignore
+
+[33mcommit 0820d854fee48004e4b49db0548d008c5816b1eb[m
+Author: LuisN <luisnog90@gmail.com>
+Date:   Thu Apr 10 20:56:34 2025 -0500
+
+    se actualiza el print
+
+[33mcommit b57735844e9436e47e6a1277f674d97183d03d15[m
+Author: LuisN <luisnog90@gmail.com>
+Date:   Thu Apr 10 20:48:01 2025 -0500
+
+    este es mi segundo commit
+
+[33mcommit 248f25b686429cd70efae0fdfab3f0e0b4915267[m
+Author: LuisN <luisnog90@gmail.com>
+Date:   Thu Apr 10 20:40:10 2025 -0500
+
+    Este es mi primer commit
